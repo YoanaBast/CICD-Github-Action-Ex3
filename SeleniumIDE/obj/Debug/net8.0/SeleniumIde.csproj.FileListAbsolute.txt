@@ -100,3 +100,4 @@
 /home/yoana/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/2-SeleniumIDE/SeleniumIDE/obj/Debug/net8.0/SeleniumIde.pdb
 /home/yoana/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/2-SeleniumIDE/SeleniumIDE/obj/Debug/net8.0/SeleniumIde.genruntimeconfig.cache
 /home/yoana/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/2-SeleniumIDE/SeleniumIDE/obj/Debug/net8.0/ref/SeleniumIde.dll
+/home/yoana/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/2-SeleniumIDE/SeleniumIDE/obj/Debug/net8.0/SeleniumIde.sourcelink.json
